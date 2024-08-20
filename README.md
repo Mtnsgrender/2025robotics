@@ -1,5 +1,5 @@
 # Uncle Roboto
 
-##Projects for Term 1
+## Projects for Term 1
 
-##Projects for term 2
+## Projects for term 2
